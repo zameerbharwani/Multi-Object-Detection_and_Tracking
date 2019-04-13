@@ -1,4 +1,4 @@
-# Multi-Object-Detection_and_Tracking
+# Multi-Object-Detection and Tracking in Hockey
 
 The following is the results of ~5 months of an indepenent research project, working on multi-object detection and tracking in Hockey in the Vision and Image Processing Lab.
 
