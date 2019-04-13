@@ -1,6 +1,6 @@
 # Multi-Object-Detection and Tracking in Hockey
 
-The following is the results of ~5 months of an indepenent research project, working on multi-object detection and tracking in Hockey in the Vision and Image Processing Lab.
+The following is the results of ~5 months of an independent research project, working on multi-object detection and tracking in Hockey in the Vision and Image Processing Lab.
 
 Over the course of these 5 months, I implemented detection and tracking in Hockey via Faster RCNN (FrRCNN) and SORT, respectively, as well as some new ideas I had to improve their performance. After establishing the benchmark performance with these state-of-the-art algorithms, I proposed possible solutions to their bottlenecks and implemented these ideas in python, specifically targetting detecting and tracking through occlusions. 
 
