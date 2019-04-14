@@ -14,5 +14,3 @@ I will upload all my code shortly and update this readme with specific instructi
 Due to the nature of the work, I will not be able to share the dataset/annotations; sincerest apologies.
 
 Dropbox link: https://www.dropbox.com/s/ztk10oyo0yuf7tl/Results.zip?dl=0
-
-
