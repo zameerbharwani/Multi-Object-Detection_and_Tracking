@@ -5,7 +5,7 @@ The following is the results of ~5 months of an independent research project, wo
 Over the course of these 5 months, I implemented detection and tracking in Hockey via Faster RCNN (FrRCNN) and SORT, respectively, as well as some new ideas I had to improve their performance. After establishing the benchmark performance with these state-of-the-art algorithms, I proposed possible solutions to their bottlenecks and implemented these ideas in python, specifically targetting detecting and tracking through occlusions. 
 
 **_The contents of this project are too large to upload to github. I have attached a dropbox link to a zip file
-that contains a video of my imlementation of the tracking algorithm, as well as a report that contains an in-depth explanation of all my work; transfer learning for improved detections via FrRCNN (+results), SORT for tracking (+results), my proposals, their implmentations, and their results._** 
+that contains a video of my implementation of the tracking algorithm, as well as a report that contains an in-depth explanation of all my work; transfer learning for improved detections via FrRCNN (+results), SORT for tracking (+results), my proposals, their implmentations, and their results._** 
 
 Dropbox link: https://www.dropbox.com/s/2zbmkaztfla8avp/Results.zip?dl=0
 
