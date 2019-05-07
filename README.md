@@ -19,7 +19,7 @@ For tracking, Simple Online and Realtime Tracker was used, which implemented the
 
 Given that hockey is a game that is played in closed quarters and is a high contact sport, occlusions are frequent. This presents a challenge for high quality tracking. To help with occlusions, the first step was to detect and determine where and when an occlusion might be occuring. Two different methods were explored, with the latter offering the greatest promise:
 
-1) Using joint infromation from a pose-estimation network to dicern when more than one player is present in a bounding box
+1) Using joint infromation from a pose-estimation network to dicern when more than one player is present in a bounding box <br/>
 2) Using a decision tree to determine whether an occlusion has led to a missing detection by analyzing the manner in which bounding boxes overlap
 
 # Public Repositories Used
