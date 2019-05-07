@@ -9,8 +9,6 @@ that contains a video of my imlementation of the tracking algorithm, as well as 
 of all my work; transfer learning for improved detections via FrRCNN (+results), SORT for tracking (+results), my proposals,
 their implmentations, and their results. 
 
-I will upload all my code shortly and update this readme with specific instructions for implementation.
-
 Due to the nature of the work, I will not be able to share the dataset/annotations; sincerest apologies.
 
 Dropbox link: https://www.dropbox.com/s/2zbmkaztfla8avp/Results.zip?dl=0
