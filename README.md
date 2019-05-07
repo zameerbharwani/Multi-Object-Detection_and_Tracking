@@ -15,8 +15,8 @@ Dropbox link: https://www.dropbox.com/s/2zbmkaztfla8avp/Results.zip?dl=0
 
 # Public Repositories Used
 
-Detections (Faster RCNN): https://github.com/kbardool/keras-frcnn
-Tracking (SORT): https://github.com/abewley/sort
+Detections (Faster RCNN): https://github.com/kbardool/keras-frcnn /n
+Tracking (SORT): https://github.com/abewley/sort /n
 Pose Estimation (open-pose): https://github.com/ildoonet/tf-pose-estimation
 
 # Summary
