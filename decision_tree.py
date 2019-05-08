@@ -6,7 +6,6 @@
 import cv2
 import argparse
 import numpy as np
-import argparse
 
 #better than cv2.putText since it accepts float co-ordinates
 from PIL import Image, ImageFont, ImageDraw
