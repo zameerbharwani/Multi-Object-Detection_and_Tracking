@@ -35,13 +35,31 @@ Post- transfer learning sample output:
 
 ![Post- transfer learning](Images/post_TL.png)
 
-
-
 #### SORT Algorithm
 
 Below is a small snipet of the video from the zip file in the dropbox link. For analysis, please see full report. 
 
 ![LQ_Sample_Tracking_Video](/LQ_Tracked_sample.gif)
+
+#### Pose Estimation
+
+Sample images from the pose estimation network
+
+![Pre- transfer learning](Images/PE.png)
+
+
+#### Decision Tree
+
+Decision Tree implementation. Path shown by the red arrows indicates the primary path of interest. The "X" over a box denotes skipped  denotes skipped decisions. 
+
+![Decision Tree](Images/DT.png)
+
+
+Sample results of my decision tree algorithm
+
+![Decision Tree](Images/DT_output.png)
+
+
 
 # Public Repositories Used
 
