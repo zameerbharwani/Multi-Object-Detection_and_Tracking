@@ -47,7 +47,6 @@ Sample images from the pose estimation network
 
 ![Pre- transfer learning](Images/PE.png)
 
-
 #### Decision Tree
 
 Decision Tree implementation. Path shown by the red arrows indicates the primary path of interest. The "X" over a box denotes skipped  denotes skipped decisions. 
@@ -59,7 +58,7 @@ Sample results of my decision tree algorithm
 
 ![Decision Tree](Images/DT_output.png)
 
-
+Two consecutive frames, moving forward in time from left to right. The top is the result after traversing the decision tree and the bottom without traversing the decision tree. Notice that the outcome of the decision tree provides two pieces of information: "<Player1_ID> occluded by <Player2_ID>" as well as a predicted red box of where the missed detection might be.
 
 # Public Repositories Used
 
