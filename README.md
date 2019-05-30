@@ -25,6 +25,12 @@ Given that hockey is a game that is played in closed quarters and is a high cont
 
 # Sample Results
 
+#### Detections
+
+Pre- transfer learning sample output:
+
+![Pre- transfer learning] (Images/pre_TL.png)
+
 #### SORT Algorithm
 
 Below is a small snipet of the video from the zip file in the dropbox link. For analysis, please see full report. 
