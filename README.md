@@ -25,7 +25,8 @@ Given that hockey is a game that is played in closed quarters and is a high cont
 
 # Sample Results
 
-![LQ_Sample_Tracking_Video] (/LQ_Tracked_sample.gif)
+![LQ_Sample_Tracking_Video](/LQ_Tracked_sample.gif)
+
 # Public Repositories Used
 
 Detections (Faster RCNN): https://github.com/kbardool/keras-frcnn <br/>
