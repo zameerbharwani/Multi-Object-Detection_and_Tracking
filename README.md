@@ -22,6 +22,10 @@ Given that hockey is a game that is played in closed quarters and is a high cont
 1) Using joint infromation from a pose-estimation network to dicern when more than one player is present in a bounding box <br/>
 2) Using a decision tree to determine whether an occlusion has led to a missing detection by analyzing the manner in which bounding boxes overlap
 
+
+# Sample Results
+
+![LQ_Sample_Tracking_Video] (LQ_Tracked_sample.gif)
 # Public Repositories Used
 
 Detections (Faster RCNN): https://github.com/kbardool/keras-frcnn <br/>
