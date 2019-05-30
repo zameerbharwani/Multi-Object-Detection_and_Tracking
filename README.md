@@ -29,7 +29,7 @@ Given that hockey is a game that is played in closed quarters and is a high cont
 
 Pre- transfer learning sample output:
 
-![Pre- transfer learning] (Images/pre_TL.png)
+![Pre- transfer learning](Images/pre_TL.png)
 
 #### SORT Algorithm
 
