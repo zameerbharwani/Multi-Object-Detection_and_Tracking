@@ -25,7 +25,10 @@ Given that hockey is a game that is played in closed quarters and is a high cont
 
 # Sample Results
 
-## SORT Algorithm ##
+#### SORT Algorithm
+
+Below is a small snipet of the video from the zip file in the dropbox link. For analysis, please see full report. 
+
 ![LQ_Sample_Tracking_Video](/LQ_Tracked_sample.gif)
 
 # Public Repositories Used
