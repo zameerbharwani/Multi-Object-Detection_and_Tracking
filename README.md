@@ -31,6 +31,12 @@ Pre- transfer learning sample output:
 
 ![Pre- transfer learning](Images/pre_TL.png)
 
+Post- transfer learning sample output:
+
+![Post- transfer learning](Images/post_TL.png)
+
+
+
 #### SORT Algorithm
 
 Below is a small snipet of the video from the zip file in the dropbox link. For analysis, please see full report. 
