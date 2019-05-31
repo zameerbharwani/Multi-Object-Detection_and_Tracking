@@ -16,3 +16,6 @@ def vid2frames():
 
 if __name__ == '__main__':
 	vid2frames()
+
+	
+# script from stackoverflow
