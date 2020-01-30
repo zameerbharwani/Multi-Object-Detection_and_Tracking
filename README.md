@@ -58,7 +58,10 @@ Sample results of my decision tree algorithm
 
 ![Decision Tree](Images/DT_output.png)
 
-Two consecutive frames, moving forward in time from left to right. The top is the result after traversing the decision tree and the bottom without traversing the decision tree. Notice that the outcome of the decision tree provides two pieces of information: "<Player1_ID> occluded by <Player2_ID>" as well as a predicted red box of where the missed detection might be.
+Two consecutive frames, moving forward in time from left to right. 
+Top: is the result after traversing the decision tree and the 
+Bottom: without traversing the decision tree. 
+Notice that the outcome of the decision tree provides two pieces of information: "<Player1_ID> occluded by <Player2_ID>" as well as a predicted red box of where the missed detection might be.
 
 # Public Repositories Used
 
